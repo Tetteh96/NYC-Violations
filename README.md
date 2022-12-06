@@ -5,3 +5,5 @@ This is a description on how to perform exploratory data analysis (EDA) using NY
 
 1. Improted the required libraries
 2. Loaded the dataset
+![image](img1.png)
+3. Performed the EDA
